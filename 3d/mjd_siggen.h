@@ -29,9 +29,6 @@
 #define CART 1
 #define MAX_FNAME_LEN 512
 
-float sqrtf(float x);
-float fminf(float x, float y);
-
 // from fields.c
 struct velocity_lookup{
   float e;

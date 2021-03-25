@@ -26,9 +26,6 @@
 #define CYL 0
 #define CART 1
 
-float sqrtf(float x);
-float fminf(float x, float y);
-
 // from fields.c
 struct velocity_lookup{
   float e;
